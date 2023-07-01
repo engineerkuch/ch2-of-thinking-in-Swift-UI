@@ -1,1 +1,3 @@
-# ch2-of-thinking-in-Swift-UI
+# Ch2-of-Thinking-in-Swift-UI
+
+NOTE: THIS CODE IS FOR LEARNING PURPOSE ONLY AND ISN'T MEANT TO BE UNDERSTOOD.
